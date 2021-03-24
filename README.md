@@ -97,6 +97,12 @@ As I gather information about NFT project, I have decided to create a list of NF
 * Blockchain: Ethereum (ETH)
 * Create, collect, and trade #ProgrammableArt.
 
+### Pixelchain - Open platform to create pixel art stored 100% on the blockchain.
+* https://www.pixelchain.art/
+* Blochain: Ethereum (ETH)
+* Pixelchain is a decentralized app that allows users to create pixel art and store it 100% on the blockchain.
+
+
 ```
 Please get in touch if you want to have a platform or marketplace added.
 ```
