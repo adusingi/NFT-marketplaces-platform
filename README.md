@@ -1,4 +1,4 @@
-# A list of NFT-marketplaces-platform
+# A list of NFT marketplaces and platforms
 
 ## Introduction
 
