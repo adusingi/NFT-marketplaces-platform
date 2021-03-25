@@ -37,6 +37,11 @@ As I gather information about NFT project, I have decided to create a list of NF
 * Blockchain: Ethereum (ETH)
 * Buy, sell, trade NFTs
 
+### NIFTEX - Open platform to create and trade ERC20 fractions of non-fungible tokens.
+* https://www.niftex.com/
+* Blockchain: Ethereum (ETH)
+* The NIFTEX Platform enables the division of NFTs into fungible pieces conforming to the ERC20 standard.
+
 ### Portion - Open market place to connect artists and collectors.
 * https://portion.io/
 * Blockchain: Ethereum (ETH)
